@@ -2,7 +2,7 @@
      CINEMATIC 3D BLACK HOLE // GRAVITATIONAL SINGULARITY
 ========================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,4,8,12&height=200&section=header&text=ZAKARIA%20QASSIFI&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=GRAVITATIONAL%20SINGULARITY%20%7C%20AI%20%26%20EMBEDDED%20SYSTEMS&descAlignY=60&descSize=13&descColor=a1a1aa&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,4,8,12&height=180&section=header&text=ZAKARIA%20QASSIFI&fontSize=38&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
