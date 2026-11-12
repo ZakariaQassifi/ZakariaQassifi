@@ -25,3 +25,11 @@ singularity_profile:
     os: ["Ubuntu", "Manjaro Linux"]
     core_tools: ["Terminal CLI", "VS Code", "VirtualBox"]
   mission: "Architecting clean, efficient, and resilient software across the entire stack—from low-level hardware to modern web applications."
+
+### `05.1 / 3D CONTRIBUTIONS MAP`
+
+<div align="center">
+  <a href="https://github.com/zakaria-qassifi/github-profile-3d-contrib">
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Night View" width="100%" />
+  </a>
+</div>
