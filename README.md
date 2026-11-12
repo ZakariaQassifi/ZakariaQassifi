@@ -103,15 +103,17 @@ Status: In Progress.
 <div align="center">
 
 <a href="https://zakaria-qassifi-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/ZakariaQassifi">
-  <img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-ZakariaQassifi-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 *"The best way to predict the future is to build it."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:404040,50:171717,100:000000&height=100&section=footer" />
 
 </div>
